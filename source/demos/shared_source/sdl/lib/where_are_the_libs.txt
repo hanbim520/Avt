@@ -1,0 +1,4 @@
+
+You will have to compile libSDL2.a for your deployment
+target (I.e.: iPad, iPhone, Simulator, ...)
+
